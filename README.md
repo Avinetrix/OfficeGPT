@@ -60,3 +60,11 @@ If you find any bugs or have suggestions for improvements, feel free to open an 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Legal
+
+Use of this repository and its contents (Application) is solely at your own risk. Do not use this Application on mission critical hardware or in sensitive cybersecurity environments. The developer is not responsible for any loss, damage, or disruption caused by the use of this Application, including but not limited to data loss, system failures, hardware damage, or any other consequences, including those arising due to negligence. This Application is provided "as is" without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement, except as required by Australian law. By using this Application, you agree to these terms and to hold the developer harmless from and indemnify the developer against any and all claims, demands, losses, damages, costs, and expenses (including solicitor's fees) arising out of or in connection with your use of the Application. The developer is additionally not responsible for the creation of black holes, accidental or otherwise.
+
+## Acknowledgement of intellectual property rights
+
+This repository references Microsoft Office and ChatGPT, both of which are the exclusive property of Microsoft Corporation and OpenAI respectively. Microsoft Office, Microsoft Word, and any associated trademarks or logos are the intellectual property of Microsoft Corporation and are used herein solely for informational and referential purposes. ChatGPT, GPT-4o, GPT-3.5 Turbo, and any associated trademarks or logos are the intellectual property of OpenAI and are used herein solely for informational and referential purposes. The developer of this Application is not affiliated with, endorsed by, or in any way officially connected to Microsoft Corporation or OpenAI.
