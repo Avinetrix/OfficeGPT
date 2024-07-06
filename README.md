@@ -26,7 +26,7 @@ The macro(s) can now be used:
 6. The macro will send the selected text to ChatGPT and insert the response on a new line below the selection.
 
 ## Recommended usage
-Add a macro button to the Quick Access Toolbar
+For a streamlined experience, add macro button to the Quick Access Toolbar.
 
 1. Right click on the Ribbon and select `Customise Ribbon...`.
 2. Filter available options to macros by selecting `Macros` in the `Choose commands from:` dropdown menu.
