@@ -1,10 +1,10 @@
 # ChatGPT Integration for Microsoft Word
 
-This VBA macro allows you to interact with the ChatGPT 4o and 3.5 Turbo models directly from within Microsoft Word. Simply select the text you want to send to ChatGPT, and the macro will retrieve the response and insert it into your document.
+This VBA macro allows you to interact with the ChatGPT 4o, 4o mini, or 3.5 Turbo models directly from within Microsoft Word. Simply select the text you want to send to ChatGPT, and the macro will retrieve the response and insert it into your document.
 
 ## Features
 
-- Send selected text to either the ChatGPT 3.5 or 4o Turbo model
+- Send selected text to either the ChatGPT 4o, 4o mini, or 3.5 Turbo model
 - Receive the response from ChatGPT and insert it into your document
 - Robust error handling and debugging capabilities
 
@@ -22,7 +22,7 @@ This VBA macro allows you to interact with the ChatGPT 4o and 3.5 Turbo models d
 The macro(s) can now be used:
 
 4. Select the text you want to send to ChatGPT.
-5. Run the `GPT4o` or `GPT35Turbo` macro.
+5. Run the `GPT4o`, `GPT4omini`, or `GPT35Turbo` macro.
 6. The macro will send the selected text to ChatGPT and insert the response on a new line below the selection.
 
 ## Recommended usage
@@ -67,4 +67,4 @@ Use of this repository and its contents (Application) is solely at your own risk
 
 ## Acknowledgement of intellectual property rights
 
-This repository references Microsoft Office and ChatGPT, both of which are the exclusive property of Microsoft Corporation and OpenAI respectively. Microsoft Office, Microsoft Word, and any associated trademarks or logos are the intellectual property of Microsoft Corporation and are used herein solely for informational and referential purposes. ChatGPT, GPT-4o, GPT-3.5 Turbo, and any associated trademarks or logos are the intellectual property of OpenAI and are used herein solely for informational and referential purposes. The developer of this Application is not affiliated with, endorsed by, or in any way officially connected to Microsoft Corporation or OpenAI.
+This repository references Microsoft Office and ChatGPT, both of which are the exclusive property of Microsoft Corporation and OpenAI respectively. Microsoft Office, Microsoft Word, and any associated trademarks or logos are the intellectual property of Microsoft Corporation and are used herein solely for informational and referential purposes. ChatGPT, GPT-4o, GPT-4o mini, GPT-3.5 Turbo, and any associated trademarks or logos are the intellectual property of OpenAI and are used herein solely for informational and referential purposes. The developer of this Application is not affiliated with, endorsed by, or in any way officially connected to Microsoft Corporation or OpenAI.
