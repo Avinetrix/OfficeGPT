@@ -1,4 +1,4 @@
-Attribute VB_Name = "GPT35Turbo"
+Attribute VB_Name = "GPT4o"
 Sub GPT35Turbo()
     Dim selectedText As String
     Dim response As String
